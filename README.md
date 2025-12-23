@@ -21,8 +21,8 @@ Users can:
 - **React.js** - UI Library
 - **Tailwind CSS** - Styling
 - **Lucide React** - Icons
-- **React Router DOM** - Routing (if used)
-- **Swiper.js** - Carousel / Slider (if used)
+- **React Router DOM** - Routing 
+- **Swiper.js** - Carousel / Slider 
 
 ---
 
