@@ -4,8 +4,8 @@
 - [Project Overview](#project-overview)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
-- [Installation](#installation)
 - [Screenshot Section](#screenshot-section)
+- [Installation](#installation)
 ---
 
 ## Project Overview
