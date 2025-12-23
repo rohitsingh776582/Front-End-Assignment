@@ -5,6 +5,7 @@
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Installation](#installation)
+- [Screenshot Section](#screenshot-section)
 ---
 
 ## Project Overview
@@ -36,6 +37,7 @@ Users can:
 - Truncated long song titles / artists
 
 ---
+## Screenshot Section
 <img width="1892" height="882" alt="Music" src="https://github.com/user-attachments/assets/d12e45f8-94c0-4cc9-a56f-5566c3e8575b" />
 
 
