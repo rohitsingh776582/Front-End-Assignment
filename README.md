@@ -5,13 +5,10 @@
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Author](#author)
-
 ---
 
 ## Project Overview
-This is a **Music Player Web App** built with **React.js** and **Tailwind CSS**.  
+This is a **Music Player Web App** built with **React.js**, styled using **Tailwind CSS** and some **custom CSS**.
 Users can:
 - Play / Pause music
 - Skip Next / Previous songs
@@ -37,16 +34,6 @@ Users can:
 - Responsive layout (mobile & desktop)
 - Fixed footer layout to prevent shifting icons
 - Truncated long song titles / artists
-
----
-
-## Screenshots
-> Add screenshots of your app here  
-
-Example:
-
-![Music Player](./screenshots/player.png)  
-![Song Cards](./screenshots/songs.png)
 
 ---
 
